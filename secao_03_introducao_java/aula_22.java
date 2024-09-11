@@ -1,3 +1,4 @@
+package secao_03_introducao_java;
 public class aula_22 {
     public static void main(String[] args) {
         int idade = 25;

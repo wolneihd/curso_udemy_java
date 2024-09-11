@@ -1,3 +1,4 @@
+package secao_03_introducao_java;
 import java.util.Locale;
 
 public class aula_24 {
