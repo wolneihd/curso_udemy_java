@@ -31,8 +31,6 @@ public class aula_35 {
             System.out.println("Boa noite!");
         }
 
-        // 10min continuar
-
         sc.close();
     }
 }
