@@ -16,6 +16,7 @@ public class aula_73 {
         System.out.printf("\nQual a quantidade de dólares comprados: ");
         double quantidade = sc.nextDouble();
 
+        // convertUsdToBrl() é statis, por isso chama a classe por CurrencyConverter:
         double total = CurrencyConverter.convertUsdToBrl(cotacao, quantidade);
         System.out.printf("A quantidade em reais é de: %.2f: ", total);
 
