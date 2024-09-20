@@ -10,6 +10,7 @@ Observação - iniciado na seção 03 (Introdução à linguagem Java)
 12/set: 31 - 41
 ------
 19/set: 57, 58, 59 60, 61
+20/set: 62 - 73
 ```
 
 LTS - LONGTERM SUPPORT
