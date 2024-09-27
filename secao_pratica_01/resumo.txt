@@ -1,0 +1,41 @@
+Para criar um projeto UML básico para um iniciante em Programação Orientada a Objetos (POO), podemos usar um exemplo clássico de uma empresa com funcionários. O diagrama terá:
+
+- Relação 1x1: Entre a classe Empresa e a classe Endereco (uma empresa tem um endereço).
+- Relação 1xN: Entre a classe Empresa e a classe Funcionario (uma empresa tem vários funcionários).
+- Enumeração: Uma enumeração chamada Cargo que define os cargos possíveis de um funcionário (por exemplo, GERENTE, DESENVOLVEDOR, ANALISTA).
+- Métodos: A classe Empresa terá métodos para adicionar e listar funcionários. A classe Funcionario terá métodos para calcular o salário.
+
+Estrutura das Classes:
+
+Empresa
+
+Atributos:
+nome: String
+endereco: Endereco
+funcionarios: List<Funcionario>
+Métodos:
+adicionarFuncionario(funcionario: Funcionario): void
+listarFuncionarios(): void
+
+Endereco
+Atributos:
+rua: String
+numero: int
+cidade: String
+estado: String
+
+Funcionario
+Atributos:
+id: int
+nome: String
+salarioBase: double
+cargo: Cargo (do tipo enum)
+Métodos:
+calcularSalario(): double
+
+Enumeração:
+
+Cargo - Constantes:
+GERENTE
+DESENVOLVEDOR
+ANALISTA
