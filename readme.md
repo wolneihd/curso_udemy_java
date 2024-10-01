@@ -4,16 +4,7 @@ Link: https://www.udemy.com/course/java-curso-completo/?couponCode=ACCAGE0923
 
 ### AULAS ASSISTIDAS
 Observação - iniciado na seção 03 (Introdução à linguagem Java)
-```
-10/set:  1, 10, 11, 12, 13, 14, 18, 19, 20, 21, 22, 23
-11/set: 23, 24, 25, 26, 27, 28
-12/set: 31 - 41
-------
-19/set: 57, 58, 59 60, 61
-20/set: 62 - 79
-23/set: 80 - 84
-24/set: 85
-```
+Para ver quando foi feito o curso, só ver o nome dos commits.
 
 LTS - LONGTERM SUPPORT
 https://www.oracle.com/br/java/technologies/java-se-support-roadmap.html
