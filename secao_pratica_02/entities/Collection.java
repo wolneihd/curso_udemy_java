@@ -11,7 +11,6 @@ public class Collection {
     private String status;
     private String title;
     private String type;
-
     List<File> arquivos = new ArrayList<>();
 
     public Collection() {}
