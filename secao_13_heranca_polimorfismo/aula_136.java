@@ -50,5 +50,7 @@ public class aula_136 {
         for (Product produto: produtos) {
             System.out.println(produto.priceTag());
         }
+
+        sc.close();
     }
 }
