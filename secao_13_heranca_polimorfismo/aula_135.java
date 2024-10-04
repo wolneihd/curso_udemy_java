@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import secao_04_estrutura_condicional.lista_exericios;
 import secao_13_heranca_polimorfismo.entidades.Employee;
 import secao_13_heranca_polimorfismo.entidades.OutsourcedEmployee;
 
