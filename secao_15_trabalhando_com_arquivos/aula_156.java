@@ -1,5 +1,3 @@
-package secao_15_trabalhando_com_arquivos;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

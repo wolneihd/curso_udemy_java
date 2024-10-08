@@ -1,5 +1,3 @@
-package secao_15_trabalhando_com_arquivos;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
