@@ -4,7 +4,9 @@ Link: https://www.udemy.com/course/java-curso-completo/?couponCode=ACCAGE0923
 
 ```
 Seção 13 - Herança e polimorfismo [finalizado]
-Secão 14 - Tratamento de exceções
+Seção 14 - Tratamento de exceções [finalizado]
+seção 15 - Trabalhando com arquivos
+
 ```
 
 ### AULAS ASSISTIDAS
